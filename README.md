@@ -62,5 +62,7 @@ componentWillMount(){
 ```
 
 ## react 下拉刷新上拉加载更多通用组件
-
 - [参考这里](https://segmentfault.com/a/1190000008730840)
+
+## 最后效果
+![这是效果图](https://i.imgur.com/U3nKwxJ.gif)
