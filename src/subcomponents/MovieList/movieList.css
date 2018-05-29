@@ -1,0 +1,48 @@
+.contentStyle {
+  margin-top: 0px;
+  margin-bottom: -0px;
+  padding: 15px;
+  background-color: #EEEEEE;
+  overflow: hidden; }
+  .contentStyle .titleStyle {
+    font-size: 12px;
+    color: #8E8E8E;
+    position: relative; }
+    .contentStyle .titleStyle span:nth-child(2) {
+      position: absolute;
+      right: 0px; }
+      .contentStyle .titleStyle span:nth-child(2) a {
+        color: black;
+        text-decoration: none; }
+  .contentStyle .movieList ul {
+    padding: 15px;
+    margin: 0;
+    overflow: hidden;
+    margin-top: 15px;
+    background-color: #fff;
+    border-radius: 5px; }
+    .contentStyle .movieList ul li {
+      float: left;
+      width: 33%;
+      list-style: none;
+      text-align: center; }
+      .contentStyle .movieList ul li a {
+        text-decoration: none;
+        text-align: center;
+        position: relative; }
+        .contentStyle .movieList ul li a .wp img {
+          width: 87px;
+          height: 125px;
+          text-align: center; }
+        .contentStyle .movieList ul li a .info {
+          font-size: 12px;
+          width: 87px;
+          height: 20px;
+          text-align: center;
+          display: inline-block;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          margin: 0;
+          padding: 0;
+          color: #494949; }

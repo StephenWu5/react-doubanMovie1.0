@@ -1,0 +1,27 @@
+.App {
+  width: 100%; }
+  .App .ant-spin {
+    width: 100%; }
+    .App .ant-spin i {
+      height: 400px;
+      line-height: 400px;
+      width: 100%;
+      vertical-align: center;
+      display: inline-block;
+      margin-top: 85px; }
+  .App .headerStyle {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 99; }
+    .App .headerStyle p {
+      padding: 0 0 0 0px;
+      margin: 0; }
+      .App .headerStyle p:nth-child(1) {
+        height: 45px;
+        padding-left: 10px;
+        background-color: #FFFFFF; }
+        .App .headerStyle p:nth-child(1) a {
+          height: 45px;
+          color: #6384EC;
+          line-height: 45px; }

@@ -1,0 +1,19 @@
+p{
+    padding-top:45px;
+    position: relative;
+    margin: 0px!important;
+    input[type='text']{
+        height: 40px;
+        width: 100%;
+        padding-left: 10px;
+        background-color: #F5F5F5;
+        outline: none!important;
+        border: none!important;
+    }
+    img{
+        position: absolute;
+        right: 10px;
+        bottom: 15px;
+        z-index: 999;
+    }
+}
